@@ -1,9 +1,5 @@
 body {
-  background-color: ghostwhite;
-}
-
-.my-name {
-  color: rgb(133, 70, 188);
+  background-color: #D6D2D2;
 }
 
 .my-linkedin {
@@ -36,6 +32,11 @@ body {
   padding: 20px 20px;
 }
 
+.my-name {
+  color: rgb(133, 70, 188);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .personal-part {
   font-family: "JetBrains Mono", monospace;
   font-family: "Roboto Mono", monospace;
@@ -45,6 +46,15 @@ body {
 .personal {
 }
 
+.nationality {
+  color: darkgreen;
+  text-decoration: underline;
+}
+
+.city {
+  color: brown;
+  text-decoration: underline;
+}
 .like {
 }
 
@@ -65,3 +75,34 @@ body {
   font-weight: 100;
   font-size: 20px;
 }
+
+.javascript {
+  font-size:xx-large;
+  color: yellow;
+}
+
+.sql {
+  font-size: x-large;
+  color: cadetblue;
+}
+
+.python {
+  font-size: larger;
+  color: coral;
+}
+
+.big-data {
+  font-size: large;
+  color: brown;
+}
+
+.raciocinio-logico {
+  font-size: medium;
+  color: crimson;
+}
+
+.metodologia-agil {
+  font-size: small;
+  color: blue;
+}
+
